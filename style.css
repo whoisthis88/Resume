@@ -1,1 +1,10 @@
+header {
+  font-family: Helvetica;
+}
 
+nav {
+  font-family: Helvetica;
+  color:white;
+  display: inline;
+  background-color: black;
+}
