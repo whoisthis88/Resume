@@ -2,7 +2,7 @@ header {
   font-family: Helvetica;
 }
 
-nav {
+nav a{
   font-family: Helvetica;
   color:white;
   display: inline;
